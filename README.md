@@ -26,14 +26,7 @@ A Flask-based web application that leverages the LLaVA 7B model to create an int
    cd conversational-chatbot
 
 ## File Structure
-conversational-chatbot/
-├── main.py                   # Flask backend and chatbot logic
-├── templates/
-│   └── index.html           # Frontend HTML with CSS and JavaScript
-├── static/
-│   └── uploads/             # Directory for temporary file uploads (create manually if needed)
-├── processed_data.txt        # Log file for processed file content (generated automatically)
-└── README.md                # This file
+![image](https://github.com/user-attachments/assets/549c6280-0913-4182-b85e-34dca5e469db)
 
 ## Dependencies
 
