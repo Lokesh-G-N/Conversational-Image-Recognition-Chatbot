@@ -15,7 +15,7 @@ A Flask-based web application that leverages the LLaVA 7B model to create an int
 ## Prerequisites
 
 - Python 3.8+
-- [Ollama](https://ollama.ai/) installed and running locally with the `llava:7b` model pulled (`ollama pull llava:7b`).
+- [Ollama](https://ollama.com/) installed and running locally with the `llava:7b` model pulled (`ollama pull llava:7b`).
 - A web browser (e.g., Chrome, Firefox) for accessing the UI.
 
 ## Installation
