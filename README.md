@@ -55,5 +55,5 @@ A Flask-based web application that leverages the LLaVA 7B model to create an int
 
 ## Acknowledgments
 
-- Built with [LLaVA]((https://ollama.com/library/llava:7b)) via Ollama.
+- Built with [LLaVA](https://ollama.com/library/llava:7b) via Ollama.
 - Inspired by modern chatbot UIs and Flask tutorials.
